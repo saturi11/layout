@@ -1,0 +1,10 @@
+#home {
+	background: #ffc107;
+	color: black;
+}
+.caixa{
+	color: white;
+	background-color: #292b2c;
+	padding: 60px 0px;
+	border-bottom: 1px solid #e5e5e5;
+}
